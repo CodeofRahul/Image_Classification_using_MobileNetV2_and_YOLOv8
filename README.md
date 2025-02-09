@@ -19,7 +19,7 @@ This project aims to showcase the capabilities of MobileNetV2 and YOLOv8 in imag
 
 ## Getting Started
 
-1. **Clone the repository:** `git clone https://github.com/your-username/your-repository.git`
+1. **Clone the repository:** `git clone https://github.com/CodeofRahul/Image_Classification_using_MobileNetV2_and_YOLOv8.git`
 2. **Install dependencies:** `pip install tensorflow pillow ultralytics`
 3. **Run the code:** Execute the provided Python code to classify your own images.
 
